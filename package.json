@@ -1,5 +1,5 @@
 {
   "name": "wasm-js-bun",
   "version": "1.0.0",
-  "workspaces": ["packages/*"]
+  "workspaces": ["packages/*","crates/**"]
 }
